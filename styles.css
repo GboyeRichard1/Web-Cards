@@ -84,6 +84,7 @@ height:63%;
     font-style: normal;
     font-weight: 600;
     margin-bottom: 6px;
+    position: relative;
 
  
 }
@@ -93,13 +94,25 @@ height:63%;
     font-size: 17px;
     font-style: normal;
     font-weight: 300; 
+    width:100%;
+    
 }
 
 .imagearea{
     margin-right:12px;
     margin-top: 12px;
+    display:flex;
+    position: relative;
 }
 .contentarea{
-   
-
+}
+    
+.imagearea{
+display: flex;
+flex-direction: row;
+}
+.shortcutimage{
+    position: absolute;
+    top:0;
+    right:0;
 }
