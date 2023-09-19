@@ -102,8 +102,6 @@ height:63%;
     display:flex;
     flex-direction: row;
 }
-.contentarea{
-}
 
 .shortcutimage{
     position: absolute;
@@ -182,6 +180,5 @@ margin-left: 15px;
 height: 100%;
 left: 80px;
 margin-left: 18px;
-
 }
 
