@@ -67,7 +67,7 @@ height:70%;
  }
 
 .rightsidecontent2{
-height:35%;
+height:37%;
 display:flex;
 flex-direction: row;
 position: relative;
@@ -91,7 +91,7 @@ height:63%;
 .rightsidecontent2 p{
     color: #8D98AA;
     font-family: Inter;
-    font-size: 17px;
+    font-size: 19px;
     font-style: normal;
     font-weight: 300; 
     width:100%;
