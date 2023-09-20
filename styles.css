@@ -6,9 +6,11 @@
 
 body{
     display: column;
-    height:200vh;
+    height:300vh;
     margin-top: 50px;
     margin-left: 40px;
+    background-color:#8D98AA;
+   
 }
 
 .container{
@@ -115,6 +117,8 @@ height:63%;
     border-radius: 20px;
     background: #FFF;
     box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+    
+   
 }
 
 .Uppersection{
@@ -182,3 +186,29 @@ left: 80px;
 margin-left: 18px;
 }
 
+.container3{
+display:flex;
+margin-top: 60px;
+width:874px;
+height:300.333px;
+border-radius: 16px;
+background: #FFF;
+box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+
+.left{
+width: 437px;
+height: 300.333px;
+}
+
+.right{
+width: 437px;
+height: 300.333px;
+}
+
+.leftsideimage{
+height:100%;
+width:100%;
+border-radius: 16px;
+padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px;
+}
